@@ -1,5 +1,5 @@
 {
-  "name": "layershifter/tld-database",
+  "name": "showapp/tld-database",
   "description": "Database abstraction for Public Suffix List",
   "keywords": [
     "PSL",
@@ -13,6 +13,10 @@
     {
       "name": "Alexander Fedyashov",
       "email": "a@fedyashov.com"
+    },
+    {
+      "name": "Konrad Marcińczyk",
+      "email": "contact@showapp.pl"
     }
   ],
   "require": {
