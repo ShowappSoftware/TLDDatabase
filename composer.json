@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "showapp/tld-support": "^1.0.0",
+    "showapp/tld-support": "dev-master",
     "ext-curl": "*",
     "php": "8.*"
   },
